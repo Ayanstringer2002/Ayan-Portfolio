@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+917827788682',
   address: 'Adeeb colony Patna Bihar',
   github: 'https://github.com/Ayanstringer2002',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
+  facebook: 'https://www.facebook.com/profile.php?id=100085893656855',
   linkedIn: 'https://www.linkedin.com/in/ayan-ahmad-20901b252/',
   twitter: 'https://x.com/Ayanahm17387300',
   stackOverflow: 'https://stackoverflow.com/users/22419738/ayan-ahmad',
