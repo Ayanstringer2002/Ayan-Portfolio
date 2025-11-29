@@ -2,7 +2,7 @@ export const personalData = {
   name: "Ayan Ahmad",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is Ayan Ahmad. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Ayan Ahmad. I am a passionate and dedicated technology enthusiast with strong skills in Web Development, Machine Learning, Generative AI, Data Structures & Algorithms, and DevOps. I am a quick learner with a self-driven mindset and continuously explore emerging tools and technologies to enhance my expertise.I enjoy building efficient, scalable, and user-friendly applications, and I am deeply interested in creating intelligent systems powered by AI and automation.",
   email: 'ayan988ahmad@gmail.com',
   phone: '+917827788682',
   address: 'Adeeb colony Patna Bihar',
